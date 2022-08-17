@@ -248,6 +248,6 @@ Tab3:AddButton({
 	AntiKick()
 	AntiAfk()
 end
-)}}
+})
 
 OrionLib:Init()
